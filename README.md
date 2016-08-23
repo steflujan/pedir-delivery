@@ -10,5 +10,6 @@ Se solicita un pedido delivery online a través de una computadora. Esta muestra
        5.1  NO regresa al paso 3
 6. Resumen de pedido
 7. Fin
+
 ####Imagen diagrama de flujo
 ![diagrama de flujo](http://i68.tinypic.com/14ln6ur.jpg)
